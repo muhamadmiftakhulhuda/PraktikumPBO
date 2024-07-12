@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kalkulator.iml" filepath="$PROJECT_DIR$/kalkulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transpose/transpose.iml" filepath="$PROJECT_DIR$/transpose/transpose.iml" />
     </modules>
   </component>
 </project>
